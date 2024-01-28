@@ -1,0 +1,50 @@
+#view2 .col {
+    padding: 2px;
+}
+
+#view2 .col img {
+    width: 100%;
+
+}
+
+.btn{
+    background:rgb(70, 75, 29);
+    color: rgb(247, 247, 247);
+    width: 15%;
+    font-size: 1.25rem;
+    letter-spacing: .025rem;
+    border: 2px solid rgba(0, 0, 0, 1);
+}
+.btn:hover{
+    background: rgba(115, 107, 221, 1);
+    color: red;
+}
+
+.text{
+    background: #727272;
+    color: rgb(247, 247, 247);
+    width: 100%;
+    padding: .5rem 0;
+    margin-bottom: .75rem;
+    font-size: 1.25rem;
+    letter-spacing: .025rem;
+    border: 2px solid rgba(0, 0, 0, 1);
+}
+
+body {
+    background-image: url('work1/bg.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.box {
+    padding-top: 10%;
+}
+a:link{
+    color:white;
+}
+.HomeBtn{
+    text-color:white
+}
